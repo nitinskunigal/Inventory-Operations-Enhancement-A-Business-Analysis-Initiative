@@ -70,9 +70,10 @@ In short, data analysis diagnosed the problem space, while business analysis tra
 The solution is aligned to a consistent KPI framework used across analysis, design, and validation.
 
 ### Inventory Accuracy & Availability
+- Total Inventory Value
+- Inventory Turnover (Annual)
 - % SKUs Oversold (ATP < 0)  
 - Total ATP Quantity  
-- Inventory Turnover  
 - Days of Inventory  
 - Days of Cover  
 - Median Sellable Coverage  
