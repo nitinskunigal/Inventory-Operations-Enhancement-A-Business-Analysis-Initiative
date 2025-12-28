@@ -61,7 +61,7 @@ These insights directly informed:
 
 In short, data analysis diagnosed the problem space, while business analysis translated those signals into structured requirements and solution design. Together, the two phases form a closed loop that connects data-driven diagnosis to practical, scalable operational change.
 
-🔗 **Data Analysis GitHub Repository:** *(insert link)*
+🔗 **[Data Analysis GitHub Repository](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase)**
 
 ---
 
@@ -168,12 +168,12 @@ This makes the solution realistic, defensible, and achievable within MapleDash�
 
 ## 8. Repository Navigation & Links
 
-- Data Analysis Phase Repository  
+- **[Data Analysis Phase Repository](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase)**  
 - Power BI Dashboards  
-- Business Case  
-- Business Requirements Document (BRD)
-- Stakeholder Analysis & Interview Guide
-- Current State & Future State Process Maps
-- System Context Diagram
-- Product Backlog & UAT
-- Use Case Diagrams, Use Case Specs, and Wireframes
+- **[Business Case](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Business-Analysis-Phase/blob/main/BA%20Deliverables/Business%20Case.pdf)**  
+- **[Business Requirements Document (BRD)](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Business-Analysis-Phase/blob/main/BA%20Deliverables/Business%20Requirements%20Document%20(BRD).pdf)**
+- **[Stakeholder Analysis & Interview Guide](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Business-Analysis-Phase/blob/main/BA%20Deliverables/Stakeholder%20Analysis%20%26%20Interview%20Guide.pdf)**
+- **[Current State & Future State Process Maps](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Business-Analysis-Phase/tree/main/BA%20Deliverables/Current%20State%20%26%20Future%20State%20Process%20Maps)**
+- **[System Context Diagram](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Business-Analysis-Phase/blob/main/BA%20Deliverables/System%20Context%20Diagram.png)**
+- **[Product Backlog & UAT](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Business-Analysis-Phase/tree/main/BA%20Deliverables/Product%20Backlog%20%26%20UAT)**
+- **[Use Case Diagrams, Use Case Specs, and Wireframes](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Business-Analysis-Phase/tree/main/BA%20Deliverables/Use%20Case%20Diagrams%2C%20Use%20Case%20Specs%2C%20and%20Wireframes)**
