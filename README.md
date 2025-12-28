@@ -1,5 +1,16 @@
 # Inventory Operations Enhancement - Business Analysis Phase
 
+## Table of Contents
+
+- [1. Executive Summary](#1-executive-summary)
+- [2. Problem Statement and Strategic Context](#2-problem-statement-and-strategic-context)
+- [3. How Data Analysis Informed the Business Analysis](#3-how-data-analysis-informed-the-business-analysis)
+- [4. KPIs and Value Alignment](#4-kpis-and-value-alignment)
+- [5. Solution Approach](#5-solution-approach)
+- [6. Key Business Analysis Artifacts and Traceability](#6-key-business-analysis-artifacts-and-traceability)
+- [7. Why This Is a Realistic SMB Project](#7-why-this-is-a-realistic-smb-project)
+- [8. Repository Navigation and Links](#8-repository-navigation-and-links)
+
 ## 1. Executive Summary
 
 MapleDash Grocers, a simulated e-grocery retailer, operates a multi-warehouse fulfillment network across the Greater Toronto Area, supporting high-volume, time-sensitive customer demand. While core systems such as the Inventory Management System (IMS), Warehouse Management System (WMS), and Order Management System (OMS) are in place, inventory operations rely heavily on manual coordination, delayed updates, and supervisor-driven controls.
@@ -19,7 +30,7 @@ The outcome is a scalable, disciplined inventory execution model that improves i
 
 ---
 
-## 2. Problem Statement & Strategic Context
+## 2. Problem Statement and Strategic Context
 
 MapleDashâ€™s fulfillment model depends on accurate inventory visibility, reliable replenishment, and disciplined execution across multiple warehouses. As order volumes and SKU complexity increased, operational processes failed to scale at the same pace.
 
@@ -101,7 +112,7 @@ These KPIs form the basis for benefits realization tracking and post-implementat
 
 ---
 
-## 5. Solution Approach (What Changed and Why)
+## 5. Solution Approach
 
 The proposed solution is a **process-led IMS enhancement**, not a technology overhaul. It strengthens how inventory decisions are executed, validated, and recorded across the warehouse network.
 
@@ -126,7 +137,7 @@ Together, these principles convert inventory operations from reactive and manual
 
 ---
 
-## 6. Key Business Analysis Artifacts & Traceability
+## 6. Key Business Analysis Artifacts and Traceability
 
 This repository contains a complete, industry-aligned set of Business Analysis artifacts demonstrating traceability from problem identification through solution validation.
 
@@ -166,7 +177,7 @@ This makes the solution realistic, defensible, and achievable within MapleDashâ€
 
 ---
 
-## 8. Repository Navigation & Links
+## 8. Repository Navigation and Links
 
 - **[Data Analysis Phase Repository](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase)**  
 - Power BI Dashboards  
