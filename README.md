@@ -39,7 +39,7 @@ This initiative directly addresses that need while remaining aligned with MapleD
 
 ## 3. How Data Analysis Informed the Business Analysis
 
-This Business Analysis initiative is evidence-led. A dedicated Data Analysis phase was conducted during discovery using Power BI dashboards and KPI diagnostics to establish a fact-based understanding of MapleDash’s current-state operations before defining requirements or solutions.
+This Business Analysis initiative is evidence-led. A dedicated Data Analysis was conducted during discovery using Power BI dashboards and KPI diagnostics to establish a fact-based understanding of MapleDash’s current-state operations before defining requirements or solutions.
 
 The data analysis did **not** propose solutions. Instead, it surfaced where execution breaks down and where operational risk accumulates, enabling informed BA decisions.
 
