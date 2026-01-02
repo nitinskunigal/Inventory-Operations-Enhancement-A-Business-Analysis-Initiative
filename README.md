@@ -5,11 +5,12 @@
 - [1. Executive Summary](#1-executive-summary)
 - [2. Problem Statement and Strategic Context](#2-problem-statement-and-strategic-context)
 - [3. How Data Analysis Informed the Business Analysis](#3-how-data-analysis-informed-the-business-analysis)
-- [4. KPIs and Value Alignment](#4-kpis-and-value-alignment)
-- [5. Solution Approach](#5-solution-approach)
-- [6. Key Business Analysis Artifacts and Traceability](#6-key-business-analysis-artifacts-and-traceability)
+- [4. Solution Approach](#4-solution-approach)
+- [5. KPIs and Value Alignment](#5-kpis-and-value-alignment)
+- [6. Estimated Benefits and Expected Outcomes](#6-estimated-benefits-and-expected-outcomes)
 - [7. Why This Is a Realistic SMB Project](#7-why-this-is-a-realistic-smb-project)
-- [8. Repository Navigation and Links](#8-repository-navigation-and-links)
+- [8. Key Business Analysis Artifacts and Traceability](#8-key-business-analysis-artifacts-and-traceability)
+- [9. Repository Navigation and Links](#9-repository-navigation-and-links)
 
 ## 1. Executive Summary
 
