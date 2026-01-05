@@ -8,7 +8,7 @@
 - [4. Solution Approach](#4-solution-approach)
 - [5. KPIs and Value Alignment](#5-kpis-and-value-alignment)
 - [6. Estimated Benefits and Expected Outcomes](#6-estimated-benefits-and-expected-outcomes)
-- [7. Why This Is a Realistic SMB Project](#7-why-this-is-a-realistic-smb-project)
+- [7. Limitations, Constraints, and Future Enhancement Opportunities](#7-limitations-constraints-and-future-enhancement-opportunities)
 - [8. Key Business Analysis Artifacts and Traceability](#8-key-business-analysis-artifacts-and-traceability)
 - [9. Repository Navigation and Links](#9-repository-navigation-and-links)
 
@@ -143,16 +143,49 @@ These outcomes represent execution efficiency gains, not demand growth assumptio
 
 ---
 
-## 7. Why This Is a Realistic SMB Project
+## 7. Limitations, Constraints, and Future Enhancement Opportunities
 
-This initiative deliberately avoids overengineering:
+This Business Analysis initiative was intentionally scoped to address execution discipline, inventory accuracy, and operational reliability within MapleDash’s current systems landscape and organizational maturity. While the proposed solution delivers measurable benefits within a short horizon, it does not attempt to solve every adjacent opportunity. The following outlines key limitations by design, followed by realistic next steps aligned with MapleDash’s longer-term strategy.
 
-- Supplier performance issues are observed and mitigated through execution controls, not solved through sourcing changes  
-- Automation is rule-based, not AI-driven  
-- Integrations are lightweight, not real-time enterprise orchestration  
-- Improvements focus on execution discipline, not organizational restructuring  
+### 7.1 Intentional Limitations and Scope Constraints
 
-This makes the solution realistic, defensible, and achievable within MapleDash’s operational context.
+Several areas were deliberately excluded to ensure feasibility, adoption, and time-to-value:
+
+- **No full system replacement or ERP consolidation**: The project assumes continued use of existing IMS, WMS, and OMS platforms. Replacing or consolidating systems was deemed high-risk, cost-intensive, and misaligned with MapleDash’s current growth stage.
+- **No real-time or enterprise-grade integrations**: Data synchronization focuses on reliability and control points rather than real-time orchestration. This avoids architectural complexity while still improving execution accuracy.
+- **No advanced forecasting, AI, or optimization engines**: Demand forecasting, predictive replenishment, and machine-learning-based optimization were intentionally excluded. The root issues identified were execution-driven, not forecast-driven.
+- **Supplier behavior not treated as a controllable lever**: Supplier reliability metrics were used strictly as inbound risk context. Contract renegotiation, sourcing strategy changes, or supplier performance improvement initiatives fall outside this project’s mandate.
+- **Power BI used as a diagnostic and monitoring tool, not a decision engine**: Dashboards support visibility and monitoring but do not replace operational workflows or system-directed controls.
+These constraints ensure the solution remains practical, implementable, and defensible within a six-month horizon.
+
+### 7.2 Near-Term Enhancements (Post-Stabilization)
+
+Once execution discipline and system trust are stabilized, MapleDash can extend value through incremental enhancements:
+
+- **Operationalized BI monitoring**: Transition Power BI dashboards from diagnostic use to operational governance, including alerting for ATP risk, replenishment exceptions, and expiry exposure.
+- **Rule refinement and tuning**: Fine-tune tolerance thresholds, exception rules, and category-specific replenishment logic based on post-implementation performance trends.
+- **Expanded KPI governance**: Introduce formal KPI ownership, escalation paths, and review cadences to sustain benefits realization beyond initial rollout.
+- **Improved data pipelines**: Move from CSV-based extracts toward database-driven reporting and scheduled refresh pipelines as analytical maturity increases.
+
+### 7.3 Medium-Term Strategic Opportunities
+
+With execution foundations in place, MapleDash can pursue broader capability improvements:
+
+- **Advanced replenishment logic**: Incorporate demand seasonality, promotion calendars, and lead time variability into replenishment planning once baseline accuracy is achieved.
+- **Supplier segmentation and risk scoring**: Use observed performance data to inform procurement strategy, supplier tiering, and buffer differentiation without immediate contract changes.
+- **Network-level inventory balancing**: Introduce systematic inventory rebalancing across fulfillment centers to reduce throughput concentration risk and improve service resilience.
+- **Warehouse execution analytics**: Extend analytics into labor productivity, task cycle times, and exception frequency to further optimize warehouse operations.
+
+### 7.4 Long-Term Vision Alignment
+
+In the long term, this initiative positions MapleDash to evolve toward:
+
+- More automated and predictive inventory decision-making
+- Tighter integration between planning and execution layers
+- Scalable analytics and reporting infrastructure
+- Reduced dependency on manual supervision as volume grows
+
+Crucially, these future enhancements build on a stable execution foundation rather than attempting to leap directly to advanced automation. This staged approach ensures MapleDash’s inventory operations evolve in line with business maturity, risk tolerance, and strategic priorities.
 
 ---
 
