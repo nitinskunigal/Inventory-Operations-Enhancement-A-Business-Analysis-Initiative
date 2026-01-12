@@ -1,18 +1,6 @@
 # Inventory Operations Enhancement - A Business Analysis Initiative
 
-## Table of Contents
-
-- [1. Executive Summary](#1-executive-summary)
-- [2. Problem Statement and Strategic Context](#2-problem-statement-and-strategic-context)
-- [3. How Data Analysis Informed the Business Analysis](#3-how-data-analysis-informed-the-business-analysis)
-- [4. Solution Approach](#4-solution-approach)
-- [5. KPIs and Value Alignment](#5-kpis-and-value-alignment)
-- [6. Estimated Benefits and Expected Outcomes](#6-estimated-benefits-and-expected-outcomes)
-- [7. Limitations, Constraints, and Future Enhancement Opportunities](#7-limitations-constraints-and-future-enhancement-opportunities)
-- [8. Key Business Analysis Artifacts and Traceability](#8-key-business-analysis-artifacts-and-traceability)
-- [9. Repository Navigation and Links](#9-repository-navigation-and-links)
-
-## 1. Executive Summary
+## Executive Summary
 
 MapleDash Grocers, a simulated e-grocery retailer, operates a multi-warehouse fulfillment network across the Greater Toronto Area, supporting high-volume, time-sensitive customer demand. While core systems such as the Inventory Management System (IMS), Warehouse Management System (WMS), and Order Management System (OMS) are in place, inventory operations rely heavily on manual coordination, delayed updates, and supervisor-driven controls.
 
@@ -31,7 +19,18 @@ The outcome is a disciplined, scalable inventory execution model that improves i
 
 ---
 
-## 2. Problem Statement and Strategic Context
+## Table of Contents
+
+- [1. Problem Statement and Strategic Context](#1-problem-statement-and-strategic-context)
+- [2. How Data Analysis Informed the Business Analysis](#2-how-data-analysis-informed-the-business-analysis)
+- [3. Solution Approach](#3-solution-approach)
+- [4. KPIs and Value Alignment](#4-kpis-and-value-alignment)
+- [5. Estimated Benefits and Expected Outcomes](#5-estimated-benefits-and-expected-outcomes)
+- [6. Limitations, Constraints, and Future Enhancement Opportunities](#6-limitations-constraints-and-future-enhancement-opportunities)
+- [7. Key Business Analysis Artifacts and Traceability](#7-key-business-analysis-artifacts-and-traceability)
+- [8. Repository Navigation and Links](#8-repository-navigation-and-links)
+
+## 1. Problem Statement and Strategic Context
 
 MapleDash’s fulfillment model depends on accurate inventory visibility, reliable replenishment, and disciplined execution across multiple warehouses. As order volumes and SKU complexity increased, operational processes failed to scale at the same pace.
 
@@ -49,7 +48,7 @@ This initiative directly addresses that need while remaining aligned with MapleD
 
 ---
 
-## 3. How Data Analysis Informed the Business Analysis
+## 2. How Data Analysis Informed the Business Analysis
 
 This Business Analysis initiative is evidence-led. A dedicated Data Analysis was conducted during discovery using Power BI dashboards and KPI diagnostics to establish a fact-based understanding of MapleDash’s current-state operations before defining requirements or solutions.
 
@@ -77,7 +76,7 @@ In short, data analysis diagnosed the problem space, while business analysis tra
 
 ---
 
-## 4. Solution Approach
+## 3. Solution Approach
 
 The proposed solution is a **process-led IMS enhancement**, not a technology overhaul. It strengthens how inventory decisions are executed, validated, and recorded across the warehouse network.
 
@@ -102,7 +101,7 @@ Together, these principles convert inventory operations from reactive and manual
 
 ---
 
-## 5. KPIs and Value Alignment
+## 4. KPIs and Value Alignment
 
 KPI alignment ensures that the proposed solution delivers measurable business value, not just process improvement. The IMS enhancements are explicitly designed to influence execution-driven KPIs that reflect inventory accuracy, availability, and operational stability.
 
@@ -127,7 +126,7 @@ These KPIs form the basis for post-implementation monitoring and benefits realiz
 
 ---
 
-## 6. Estimated Benefits and Expected Outcomes
+## 5. Estimated Benefits and Expected Outcomes
 
 Based on current-state baselines identified during data analysis, the proposed solution is expected to deliver measurable operational improvements within six months of implementation, assuming disciplined adoption.
 
@@ -143,11 +142,11 @@ These outcomes represent execution efficiency gains, not demand growth assumptio
 
 ---
 
-## 7. Limitations, Constraints, and Future Enhancement Opportunities
+## 6. Limitations, Constraints, and Future Enhancement Opportunities
 
 This Business Analysis initiative was intentionally scoped to address execution discipline, inventory accuracy, and operational reliability within MapleDash’s current systems landscape and organizational maturity. While the proposed solution delivers measurable benefits within a short horizon, it does not attempt to solve every adjacent opportunity. The following outlines key limitations by design, followed by realistic next steps aligned with MapleDash’s longer-term strategy.
 
-### 7.1 Intentional Limitations and Scope Constraints
+### 6.1 Intentional Limitations and Scope Constraints
 
 Several areas were deliberately excluded to ensure feasibility, adoption, and time-to-value:
 
@@ -158,7 +157,7 @@ Several areas were deliberately excluded to ensure feasibility, adoption, and ti
 - **Power BI used as a diagnostic and monitoring tool, not a decision engine**: Dashboards support visibility and monitoring but do not replace operational workflows or system-directed controls.
 These constraints ensure the solution remains practical, implementable, and defensible within a six-month horizon.
 
-### 7.2 Near-Term Enhancements (Post-Stabilization)
+### 6.2 Near-Term Enhancements (Post-Stabilization)
 
 Once execution discipline and system trust are stabilized, MapleDash can extend value through incremental enhancements:
 
@@ -167,7 +166,7 @@ Once execution discipline and system trust are stabilized, MapleDash can extend 
 - **Expanded KPI governance**: Introduce formal KPI ownership, escalation paths, and review cadences to sustain benefits realization beyond initial rollout.
 - **Improved data pipelines**: Move from CSV-based extracts toward database-driven reporting and scheduled refresh pipelines as analytical maturity increases.
 
-### 7.3 Medium-Term Strategic Opportunities
+### 6.3 Medium-Term Strategic Opportunities
 
 With execution foundations in place, MapleDash can pursue broader capability improvements:
 
@@ -176,7 +175,7 @@ With execution foundations in place, MapleDash can pursue broader capability imp
 - **Network-level inventory balancing**: Introduce systematic inventory rebalancing across fulfillment centers to reduce throughput concentration risk and improve service resilience.
 - **Warehouse execution analytics**: Extend analytics into labor productivity, task cycle times, and exception frequency to further optimize warehouse operations.
 
-### 7.4 Long-Term Vision Alignment
+### 6.4 Long-Term Vision Alignment
 
 In the long term, this initiative positions MapleDash to evolve toward:
 
@@ -189,7 +188,7 @@ Crucially, these future enhancements build on a stable execution foundation rath
 
 ---
 
-## 8. Key Business Analysis Artifacts and Traceability
+## 7. Key Business Analysis Artifacts and Traceability
 
 This repository contains a complete, industry-aligned set of Business Analysis artifacts demonstrating traceability from problem identification through solution validation.
 
@@ -216,7 +215,7 @@ This ensures the solution is evidence-driven, testable, and defensible.
 
 ---
 
-## 9. Repository Navigation and Links
+## 8. Repository Navigation and Links
 
 - **[Data Analysis GitHub Repository](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase)**  
 - **[Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmRmNGRhOGEtN2IyNi00ZWNjLTkxN2YtMmYyMzJhNzNhN2NmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
